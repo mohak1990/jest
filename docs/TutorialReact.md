@@ -14,7 +14,7 @@ If you are just getting started with React, we recommend using [Create React App
 Run
 
 ```bash
-yarn add --dev react-test-renderer
+yarn add --only=dev react-test-renderer
 ```
 
 ### Setup without Create React App
